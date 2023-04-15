@@ -1,13 +1,13 @@
-# # Given a lists of words, print all combinations of phrases that can be formed by picking one word from each list.
+# Given a lists of words, print all combinations of phrases that can be formed by picking one word from each list.
 #
-# # Input:
-# # lists =
-# # [
-# #  ['John', 'Emma'],
-# #  ['Plays', 'Hates', 'Watches'],
-# #  ['Cricket', 'Soccer', 'Chess']
-# # ]
-#
+# Input:
+# lists =
+# [
+#  ['John', 'Emma'],
+#  ['Plays', 'Hates', 'Watches'],
+#  ['Cricket', 'Soccer', 'Chess']
+# ]
+
 # # Output:
 # #  'John Plays Cricket',
 # #  'John Plays Soccer',

@@ -12,4 +12,5 @@ def count_character(str):
             dict[str[i]] = 1
     return dict
 
+
 print(count_character('google.com'))
