@@ -54,4 +54,5 @@ if __name__ == "__main__":
     obj.traverse()
     print("pop() ====> ", obj.pop())
     obj.traverse()
+
     print("peek() ====> ", obj.peek())
